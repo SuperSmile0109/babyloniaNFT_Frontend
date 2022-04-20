@@ -1,0 +1,53 @@
+[   
+    {
+        "name": "All",
+        "subcategories": [],
+        "filename": "all.json"
+    },
+
+    {
+        "name": "New",
+        "subcategories": [],
+        "filename": "new.json"
+    },
+    {
+        "name": "Auction",
+        "subcategories": [],
+        "filename": "auction.json"
+    },
+    {
+        "name": "Category",
+        "subcategories": [],
+        "filename": "category.json"
+    },
+    {
+        "name": "Babylonia",
+        "subcategories": 
+            [{
+                "name": "PASS CARD",
+                "collection": "PASS CARD",
+                "filename": "pass_card.json"
+            },
+            {
+                "name": "Monsters ed. 01",
+                "collection": "Monsters ed. 01",
+                "filename": "MonstersEd.01.json"
+            },
+            {
+                "name": "Cyberpunk ed. 01",
+                "collection": "Cyberpunk ed. 01",
+                "filename": "Cyberpunk.json"
+            },
+            {
+                "name": "People ed. 01",
+                "collection": "People ed. 01",
+                "filename": "PeopleEd.01.json"
+            }]
+    },
+    {
+        "name": "History",
+        "subcategories": [],
+        "filename": "history.json"
+    }
+]
+
